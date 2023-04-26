@@ -10,6 +10,7 @@ int main(void)
 	unsigned long int i, a1, a2, b1, b2;
 	unsigned long int a = 2;
 	unsigned long int b = 1;
+	unsigned long int l = 1000000000;
 
 	printf("%lu", b);
 
